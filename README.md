@@ -1,4 +1,4 @@
-# Project-4-Blue-Team
+# MLB-Playoff-Predictor-With-Logistic-Regression
 
 PROJECT INTRODUCTION:
 
